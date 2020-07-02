@@ -1,0 +1,70 @@
+INFO:root:No Finding
+INFO:root:Accuracy0.8712871287128713
+INFO:root:
+
+
+INFO:root:Enlarged Cardiomediastinum
+INFO:root:Accuracy0.5198019801980198
+INFO:root:
+
+
+INFO:root:Cardiomegaly
+INFO:root:Accuracy0.6732673267326733
+INFO:root:
+
+
+INFO:root:Lung Opacity
+INFO:root:Accuracy0.5594059405940595
+INFO:root:
+
+
+INFO:root:Lung Lesion
+INFO:root:Accuracy0.995049504950495
+INFO:root:
+
+
+INFO:root:Edema
+INFO:root:Accuracy0.7920792079207921
+INFO:root:
+
+
+INFO:root:Consolidation
+INFO:root:Accuracy0.8415841584158416
+INFO:root:
+
+
+INFO:root:Pneumonia
+INFO:root:Accuracy0.9603960396039604
+INFO:root:
+
+
+INFO:root:Atelectasis
+INFO:root:Accuracy0.6287128712871287
+INFO:root:
+
+
+INFO:root:Pneumothorax
+INFO:root:Accuracy0.9653465346534653
+INFO:root:
+
+
+INFO:root:Pleural Effusion
+INFO:root:Accuracy0.6831683168316832
+INFO:root:
+
+
+INFO:root:Pleural Other
+INFO:root:Accuracy0.995049504950495
+INFO:root:
+
+
+INFO:root:Fracture
+INFO:root:Accuracy1.0
+INFO:root:
+
+
+INFO:root:Support Devices
+INFO:root:Accuracy0.5148514851485149
+INFO:root:
+
+

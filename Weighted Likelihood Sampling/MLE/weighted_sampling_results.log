@@ -1,0 +1,42 @@
+Consolidation Log
+Training Accuracy 0.5532083333333333
+Testing Accuracy 0.5495
+Fracture Log
+Training Accuracy 0.592
+Testing Accuracy 0.5945
+Pneumothorax Log
+Training Accuracy 0.5272083333333333
+Testing Accuracy 0.5263333333333333
+Lung Lesion Log
+Training Accuracy 0.5080833333333333
+Testing Accuracy 0.49216666666666664
+Enlarged Cardiomediastinum Log
+Training Accuracy 0.5787083333333334
+Testing Accuracy 0.578
+Pneumonia Log
+Training Accuracy 0.5054583333333333
+Testing Accuracy 0.49183333333333334
+Pleural Other Log
+Training Accuracy 0.648
+Testing Accuracy 0.6416666666666667
+No Finding Log
+Training Accuracy 0.5075
+Testing Accuracy 0.4856666666666667
+Cardiomegaly Log
+Training Accuracy 0.503125
+Testing Accuracy 0.4875
+Lung Opacity Log
+Training Accuracy 0.5106666666666667
+Testing Accuracy 0.497
+Edema Log
+Training Accuracy 0.50675
+Testing Accuracy 0.5006666666666667
+Pleural Effusion Log
+Training Accuracy 0.5116666666666667
+Testing Accuracy 0.5028333333333334
+Atelectasis Log
+Training Accuracy 0.50875
+Testing Accuracy 0.49766666666666665
+Support Devices Log
+Training Accuracy 0.5087916666666666
+Testing Accuracy 0.49433333333333335
